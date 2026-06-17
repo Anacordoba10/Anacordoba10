@@ -70,7 +70,7 @@ A pragmatic and structured approach. I care deeply about Clean Architecture, SOL
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anacordoba10&show_icons=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anacordoba10&show_icons=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacordoba10&layout=compact&hide_border=true&title_color=a855f7&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
 </div>
 
