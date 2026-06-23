@@ -45,7 +45,6 @@ A pragmatic and structured approach. I care deeply about Clean Architecture, SOL
 ### Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-%233a0170.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%233a0170.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%233a0170.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%233a0170.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%233a0170.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -54,7 +53,6 @@ A pragmatic and structured approach. I care deeply about Clean Architecture, SOL
 ![GitHub](https://img.shields.io/badge/github-%233a0170.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gitflow](https://img.shields.io/badge/Gitflow-%233a0170.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal_/_Bash-%233a0170.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux Zorin](https://img.shields.io/badge/Linux_(ZorinOS/Mint)-%233a0170.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering_&_AI_Integration-%233a0170.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
